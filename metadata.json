@@ -1,0 +1,6 @@
+{
+  "name": "Voter Database",
+  "description": "A secure, offline-first application for collecting and managing voter registration database records, demographic details, key concerns, and voter outreach statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
